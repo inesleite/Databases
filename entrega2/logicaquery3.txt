@@ -1,0 +1,5 @@
+a logica da terceira query foi
+1. ir buscar os postos com reservas com estado aceite
+2. subtrair pelos postos todos pra obter os postos com reservas com estados nao aceites
+3. ir buscar os espaços correspondentes a estes postos (postos com "nao aceites")
+4. subtrair pelos espaços todos pra obter os espaços "com aceites"
